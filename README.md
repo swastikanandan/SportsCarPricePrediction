@@ -16,7 +16,6 @@ Model Evaluation: Assesses performance using metrics such as R² score, MAE, and
 
 Visualization: Provides data insights through plots and graphs to highlight relationships between variables.
 ## Installation
-
 Ensure you have Python installed and the required dependencies.
 
 ```bash
